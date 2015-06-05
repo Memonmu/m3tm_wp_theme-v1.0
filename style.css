@@ -1,0 +1,15 @@
+/*   
+Theme Name: JajalanDOTkom :V
+URI: https://github.com/liprod/m3tm_wp_theme-v1.0
+Description: Ini Theme Jajalan saja.. sedang dalam proses pengembangan..
+Author: Mister.Salam (Sal-Moon)
+Author URI: http://www.MeMonMu.xyz/
+Version: 1.0.0
+*/
+@import './css/custom.css';/*Ngimpor File Custom.css yang ada di Folder CSS*/
+/*
+ * File ini sebagai file style yang di panggil di theme.. jadi CSS bootstrapsaya impor'kan saja dari sini.
+*/
+body{background-color: black;}
+.lol{background-color: blue;}
+.begron{background-image: url('./img/bgron.png');}
